@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2017\Projects\WebApiSql\WebApiSql\bin\Debug\netcoreapp1.1\WebApiSql.deps.json
+c:\users\admin\documents\visual studio 2017\Projects\WebApiSql\WebApiSql\bin\Debug\netcoreapp1.1\WebApiSql.runtimeconfig.json
+c:\users\admin\documents\visual studio 2017\Projects\WebApiSql\WebApiSql\bin\Debug\netcoreapp1.1\WebApiSql.runtimeconfig.dev.json
+c:\users\admin\documents\visual studio 2017\Projects\WebApiSql\WebApiSql\obj\Debug\netcoreapp1.1\WebApiSql.AssemblyInfo.cs
+c:\users\admin\documents\visual studio 2017\Projects\WebApiSql\WebApiSql\bin\Debug\netcoreapp1.1\WebApiSql.dll
+c:\users\admin\documents\visual studio 2017\Projects\WebApiSql\WebApiSql\bin\Debug\netcoreapp1.1\WebApiSql.pdb
+c:\users\admin\documents\visual studio 2017\Projects\WebApiSql\WebApiSql\obj\Debug\netcoreapp1.1\WebApiSql.dll
+c:\users\admin\documents\visual studio 2017\Projects\WebApiSql\WebApiSql\obj\Debug\netcoreapp1.1\WebApiSql.pdb
